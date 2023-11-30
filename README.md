@@ -5,7 +5,8 @@
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
 # 💫 About Me:
-I'm an enthusiastic self-motivated guy who loves learning new things and has a solid foundation in coding, web development.All My projects are available in https://app.netlify.com/teams/saigasc84/overview
+I'm an enthusiastic self-motivated guy who loves learning new things and has a solid foundation in coding, web development.
+All My projects are available in https://app.netlify.com/teams/saigasc84/overview
 
 
 ## 🌐 Socials:
